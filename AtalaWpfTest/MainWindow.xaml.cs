@@ -25,20 +25,6 @@ namespace AtalaWpfTest
             InitializeComponent();
         }
 
-        private void OnOpenFile(object sender, RoutedEventArgs e)
-        {
-            //this.Viewer.Image = new Atalasoft.Imaging.AtalaImage("pack://application:,,,/Resources/porsiyon1.png");
-            this.Viewer.Image = new Atalasoft.Imaging.AtalaImage(@"C:\Users\KARA\Source\Repos\AtalaWpfTest\AtalaWpfTest\Resources\ofis_1.jpg");
-            //this.Viewer.Image = new Atalasoft.Imaging.AtalaImage(@"Resources\ofis_1.jpg");
-        }
-        private void OnSaveFile(object sender, RoutedEventArgs e)
-        {
-
-        }
-        private void OnExit(object sender, RoutedEventArgs e)
-        {
-
-
-        }
+       
     }
 }
