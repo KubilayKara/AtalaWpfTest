@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License>
+  <Assembly>Atalasoft.dotImage.Jpeg2000</Assembly>
+  <Name>Kubilay Kara | kara.kubilay@gmail.com</Name>
+  <Expiration>2020-01-03</Expiration>
+  <Flags>Standard</Flags>
+  <Flag name="Standard" />
+  <Flag name="Evaluation" />
+  <Flag name="v2Signature" />
+  <Signature>lIHT5mzDMJF803YZdaFBVF30V3jwfaN8KuWpq+Vn/WxD6K2nlicPycxISDz7fU9XrHhMe/TrD4Qlu8pxIUFwhJWPhOfz3cCIgT3bqzsHdqWOsjUi+JX0wymxLyeLAV1/CHPbE4ZVjJQf+PDi5KMzxh1/vnwExhoMtCVvIizzjfw=</Signature>
+</License>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License>
+  <Assembly>Atalasoft.dotImage</Assembly>
+  <Assembly>Atalasoft.DotTwain</Assembly>
+  <Name>Kubilay Kara | kara.kubilay@gmail.com</Name>
+  <Expiration>2020-01-03</Expiration>
+  <Flags>Document</Flags>
+  <Flag name="AdvancedDocClean" />
+  <Flag name="AdvancedPhotoEffects" />
+  <Flag name="Evaluation" />
+  <Flag name="Document" />
+  <Flag name="v2Signature" />
+  <Flag name="" />
+  <Signature>4BFf7c70HYAWm1CwzYDcBDpZfSZ7GQ9cSkVLNUBJPWPwmmP5IYd7YKboW5hf6nVfI5itFH2Xr7n96HFdQmf1AzUSdiHv94bt5Be0z829okAD2mjM6/noLMHH+9R3VmQhLipmgtpe3pXgg+eYrjWxup+LVYXhz/Z7q6RHTPLQoKQ=</Signature>
+</License>

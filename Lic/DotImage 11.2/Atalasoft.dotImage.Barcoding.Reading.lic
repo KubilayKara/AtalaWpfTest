@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License>
+  <Assembly>Atalasoft.dotImage.Barcoding.Reading</Assembly>
+  <Name>Kubilay Kara | kara.kubilay@gmail.com</Name>
+  <Expiration>2020-01-03</Expiration>
+  <Flags>All1Dand2D</Flags>
+  <Flag name="Evaluation" />
+  <Flag name="v2Signature" />
+  <Flag name="All1Dand2D" />
+  <Signature>frdiIxO+JKzddG7kIJFRmUobzzXQzqx5HsD/+LyGUIsbBdAWvIw8VDAK6UNcPXdwjEt6NXhIRH1NH9xn+eMKA4lxjJGm6Uyy9YxSDBMVFHPnJeRQ7NAabYxczHpXaFmkpCkDAPOMTJVQAOKF/ECe8MJcZ37bwx8s1bK4ZRYZOcg=</Signature>
+</License>

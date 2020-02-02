@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License>
+  <Assembly>Atalasoft.dotImage.Ocr</Assembly>
+  <Name>Kubilay Kara | kara.kubilay@gmail.com</Name>
+  <Expiration>2020-01-03</Expiration>
+  <Flags />
+  <Flag name="Evaluation" />
+  <Flag name="pdftranslator" />
+  <Flag name="v2Signature" />
+  <Flag name="Abbyy" />
+  <Flag name="GlyphReader">1</Flag>
+  <Signature>vth4psuONaWxQuO5GEYljVv+8g/6e9dUHGlH5dfUzDlJhCwKesuM6ySEOb6eb5qR/SPiy9cUiIyhivqK0xc1mjVeD5EWloY5KZK0Us2NBW6kxBhiKRaFjVZPzSOs1axBPSc31W+Aa8S52Gl5bwrCKcTiXXDyOgiGQFVRn/Ucr80=</Signature>
+</License>
